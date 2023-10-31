@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif */
+    font-family: Arial, Helvetica, sans-serif
+}
+@keyframes anime {
+    0%{color: black;}
+    25%{color: black;}
+    50%{color: green;}
+    100%{color: darkgreen;}
+    /* 75%{color: lightgreen;} */
+}
+.body img{
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: -2;
+}
+
+.dashboard{
+    width: 300px;
+    margin: 30px auto 0;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.582);
+
+}
+.dashboard h1{
+    font-size: 20px;
+    color: red;
+}
+.main{
+    border-style: groove;
+    border-width: 1.4px;
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: whitesmoke;
+    box-shadow: 0px 0px 10px 1px black;
+}
+@media screen and (max-width:699px) {
+    .main{
+        margin: 0 5px;
+    }
+    .link2{
+        margin: 0 5px;
+    }
+}
+.main img{
+    width: 150px;
+    height: 150px;
+}
+.main div{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.main .dols{
+    font-size: 50px;
+    animation-name: anime;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+    animation-delay: 500ms;
+}
+.main .txt{
+    font-size: 16px;
+}
+.warnsvg img{
+    width: 15px;
+    height: 20px;
+}
+.warnsvg{
+    text-align: left;
+    margin: 0 20px;
+}
+.warnsvg span{
+    font-size: 13px;
+    vertical-align: middle;
+}

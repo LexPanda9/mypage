@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="11in" height="8.5in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11000 8500"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#373435;stroke-width:6.94;stroke-miterlimit:2.61313}
+    .str1 {stroke:#F2EAED;stroke-width:6.94;stroke-miterlimit:2.61313}
+    .fil3 {fill:none}
+    .fil0 {fill:none;fill-rule:nonzero}
+    .fil2 {fill:#80C465}
+    .fil1 {fill:#6C8F48}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1825862837904">
+   <g>
+    <path class="fil0 str0" d="M138.31 2640.11l5361.69 -2569.22 5361.69 2569.22 -10723.39 0zm2680.85 -1284.61m5361.69 0m-2680.85 1284.61"/>
+    <polygon class="fil1 str1" points="138.31,2640.11 10861.69,2640.11 5500,70.89 "/>
+    <polygon class="fil2 str1" points="138.31,2640.11 10861.69,2640.11 5500,70.89 "/>
+   </g>
+   <g>
+    <rect class="fil3 str0" x="4767.23" y="2903.81" width="1465.53" height="4304.04"/>
+    <polygon class="fil1 str1" points="4767.24,2903.81 4767.24,7207.85 6232.76,7207.85 6232.76,2903.81 "/>
+    <polygon class="fil2 str1" points="4767.24,2903.81 4767.24,7207.85 6232.76,7207.85 6232.76,2903.81 "/>
+   </g>
+   <g>
+    <rect class="fil3 str0" x="1282.14" y="2903.81" width="1876.58" height="4304.04"/>
+    <polygon class="fil1 str1" points="3158.72,7207.85 3158.72,2903.81 1282.14,2903.81 1282.14,7207.85 "/>
+    <polygon class="fil2 str1" points="3158.72,7207.85 3158.72,2903.81 1282.14,2903.81 1282.14,7207.85 "/>
+   </g>
+   <g>
+    <rect class="fil3 str0" x="7841.28" y="2903.81" width="1876.58" height="4304.04"/>
+    <polygon class="fil1 str1" points="7841.29,2903.81 7841.29,7207.85 9717.86,7207.85 9717.86,2903.81 "/>
+    <polygon class="fil2 str1" points="7841.29,2903.81 7841.29,7207.85 9717.86,7207.85 9717.86,2903.81 "/>
+   </g>
+   <g>
+    <rect class="fil3 str0" transform="matrix(-0.0251 1.14125 -3.84152 -0.00745678 10861.7 7491.25)" width="821.79" height="2786.08"/>
+    <polygon class="fil1 str1" points="10861.7,7491.25 158.93,7470.47 138.3,8408.34 10841.07,8429.12 "/>
+    <polygon class="fil2 str1" points="10861.7,7491.25 158.93,7470.47 138.3,8408.34 10841.07,8429.12 "/>
+   </g>
+  </g>
+ </g>
+</svg>
