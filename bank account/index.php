@@ -7,6 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <p>connecting</p>
+    <p style="text-align:center;">connecting</p>
 </body>
 </html>

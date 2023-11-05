@@ -39,7 +39,7 @@ class myfproject{
             // $passwordHash = $this->hashpassword($password);
             if ($access_code == $access_db) {
                 $_SESSION["accessed"] = $row["id"];
-                $wipe = $this->query("UPDATE $this->user_table SET code = null WHERE id = 1 ");
+                $wipe = $this->query("UPDATE $this->user_table SET `code` = '".null."' WHERE id = 1 ");
                 header("location:dashboard.php");
             } else{
                 return "Incorrect access code";
